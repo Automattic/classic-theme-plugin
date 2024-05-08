@@ -1,0 +1,64 @@
+{
+	"name": "automattic/classic-theme-helper-plugin",
+	"description": "Features for classic themes.",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"require": {
+		"automattic/jetpack-assets": "^2.1.9",
+		"automattic/jetpack-autoloader": "^3.0.7",
+		"automattic/jetpack-classic-theme-helper": "^0.1.0-alpha",
+		"automattic/jetpack-composer-plugin": "^2.0.1",
+		"automattic/jetpack-config": "^2.0.2",
+		"automattic/jetpack-plugins-installer": "^0.3.5"
+	},
+	"require-dev": {
+		"yoast/phpunit-polyfills": "1.1.0",
+		"automattic/jetpack-changelogger": "^4.2.3",
+		"automattic/wordbless": "0.4.2",
+		"brain/monkey": "2.6.1"
+	},
+	"autoload": {
+		"classmap": [
+			"src/"
+		]
+	},
+	"scripts": {
+		"phpunit": [
+			"./vendor/phpunit/phpunit/phpunit --colors=always"
+		],
+		"test-php": [
+			"@composer phpunit"
+		],
+		"build-development": [
+			"pnpm run build"
+		],
+		"build-production": [
+			"pnpm run build-production-concurrently"
+		],
+		"watch": [
+			"Composer\\Config::disableProcessTimeout",
+			"pnpm run watch"
+		],
+		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
+		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"extra": {
+		"mirror-repo": "Automattic/classic-theme-plugin",
+		"release-branch-prefix": "classic-theme-plugin",
+		"beta-plugin-slug": "classic-theme-helper-plugin",
+		"wp-plugin-slug": "classic-theme-helper-plugin",
+		"changelogger": {
+			"versioning": "semver"
+		}
+	},
+	"config": {
+		"allow-plugins": {
+			"roots/wordpress-core-installer": true,
+			"automattic/jetpack-autoloader": true,
+			"automattic/jetpack-composer-plugin": true
+		},
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_classic_theme_helper_pluginⓥ0_1_0_alpha"
+	}
+}
