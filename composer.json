@@ -4,12 +4,12 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^2.1.11-alpha",
+		"automattic/jetpack-assets": "^2.1.11",
 		"automattic/jetpack-autoloader": "^3.0.7",
 		"automattic/jetpack-classic-theme-helper": "^0.1.0",
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.2",
-		"automattic/jetpack-plugins-installer": "^0.4.0-alpha"
+		"automattic/jetpack-plugins-installer": "^0.4.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",

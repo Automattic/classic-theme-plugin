@@ -6,7 +6,7 @@ return array(
   'packages' => array(
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '2.1.11-alpha1715875343',
+      'ver' => '2.1.11',
     ),
     'jetpack-classic-theme-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-classic-theme-helper',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.4.0-alpha1716214991',
+      'ver' => '0.4.0',
     ),
   ),
 );
