@@ -71,7 +71,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php'
 	),
 	'Automattic\\Jetpack\\Constants' => array(
-		'version' => '2.0.3.0-alpha1716910709',
+		'version' => '2.0.3.0-alpha1716921232',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-constants/src/class-constants.php'
 	),
 	'Automattic\\Jetpack\\CookieState' => array(
