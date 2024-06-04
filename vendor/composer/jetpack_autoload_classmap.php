@@ -55,7 +55,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
 	'Automattic\\Jetpack\\Classic_Theme_Helper' => array(
-		'version' => '0.2.0.0',
+		'version' => '0.2.1.0-alpha1717499896',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-classic-theme-helper.php'
 	),
 	'Automattic\\Jetpack\\Composer\\Manager' => array(
@@ -123,7 +123,7 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-container.php'
 	),
 	'Featured_Content' => array(
-		'version' => '0.2.0.0',
+		'version' => '0.2.1.0-alpha1717499896',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php'
 	),
 	'Hook_Manager' => array(
