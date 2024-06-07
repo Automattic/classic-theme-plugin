@@ -54,9 +54,13 @@ return array(
 		'version' => '0.4.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
-	'Automattic\\Jetpack\\Classic_Theme_Helper' => array(
-		'version' => '0.2.1.0',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-classic-theme-helper.php'
+	'Automattic\\Jetpack\\Classic_Theme_Helper\\Featured_Content' => array(
+		'version' => '0.3.0.0-alpha1717756466',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php'
+	),
+	'Automattic\\Jetpack\\Classic_Theme_Helper\\Main' => array(
+		'version' => '0.3.0.0-alpha1717756466',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-main.php'
 	),
 	'Automattic\\Jetpack\\Composer\\Manager' => array(
 		'version' => '2.0.2.0',
@@ -121,10 +125,6 @@ return array(
 	'Container' => array(
 		'version' => '3.0.8',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-container.php'
-	),
-	'Featured_Content' => array(
-		'version' => '0.2.1.0',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php'
 	),
 	'Hook_Manager' => array(
 		'version' => '3.0.8',

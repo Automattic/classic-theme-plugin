@@ -15,7 +15,8 @@ return array(
     'Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin' => $vendorDir . '/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php',
     'Automattic\\Jetpack\\Autoloader\\ManifestGenerator' => $vendorDir . '/automattic/jetpack-autoloader/src/ManifestGenerator.php',
     'Automattic\\Jetpack\\Automatic_Install_Skin' => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php',
-    'Automattic\\Jetpack\\Classic_Theme_Helper' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-classic-theme-helper.php',
+    'Automattic\\Jetpack\\Classic_Theme_Helper\\Featured_Content' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php',
+    'Automattic\\Jetpack\\Classic_Theme_Helper\\Main' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-main.php',
     'Automattic\\Jetpack\\Composer\\Manager' => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-manager.php',
     'Automattic\\Jetpack\\Composer\\Plugin' => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-plugin.php',
     'Automattic\\Jetpack\\Config' => $baseDir . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php',
@@ -32,5 +33,4 @@ return array(
     'Automattic\\Jetpack\\Status\\Visitor' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php',
     'Classic_Theme_Helper_Plugin' => $baseDir . '/src/class-classic-theme-helper-plugin.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
-    'Featured_Content' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php',
 );
