@@ -15,3 +15,6 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - Updated package dependencies.
+
+### Removed
+- Removed wp slug until plugin is approved
