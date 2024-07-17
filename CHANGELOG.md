@@ -18,4 +18,5 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Removed
+- General: update WordPress version requirements to WordPress 6.5.
 - Removed wp slug until plugin is approved
