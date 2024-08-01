@@ -36,6 +36,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_classic_theme_helper_pl
         'Automattic\\Jetpack\\Automatic_Install_Skin' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php',
         'Automattic\\Jetpack\\Classic_Theme_Helper\\Featured_Content' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php',
         'Automattic\\Jetpack\\Classic_Theme_Helper\\Main' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-main.php',
+        'Automattic\\Jetpack\\Classic_Theme_Helper\\Social_Links' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/social-links.php',
         'Automattic\\Jetpack\\Composer\\Manager' => __DIR__ . '/..' . '/automattic/jetpack-composer-plugin/src/class-manager.php',
         'Automattic\\Jetpack\\Composer\\Plugin' => __DIR__ . '/..' . '/automattic/jetpack-composer-plugin/src/class-plugin.php',
         'Automattic\\Jetpack\\Config' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php',

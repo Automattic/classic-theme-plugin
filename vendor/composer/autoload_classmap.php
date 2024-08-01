@@ -17,6 +17,7 @@ return array(
     'Automattic\\Jetpack\\Automatic_Install_Skin' => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php',
     'Automattic\\Jetpack\\Classic_Theme_Helper\\Featured_Content' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php',
     'Automattic\\Jetpack\\Classic_Theme_Helper\\Main' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-main.php',
+    'Automattic\\Jetpack\\Classic_Theme_Helper\\Social_Links' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/social-links.php',
     'Automattic\\Jetpack\\Composer\\Manager' => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-manager.php',
     'Automattic\\Jetpack\\Composer\\Plugin' => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-plugin.php',
     'Automattic\\Jetpack\\Config' => $baseDir . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php',
