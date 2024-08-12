@@ -8,6 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'Automattic\\Jetpack\\A8c_Mc_Stats' => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php',
     'Automattic\\Jetpack\\Assets' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php',
+    'Automattic\\Jetpack\\Assets\\Script_Data' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-script-data.php',
     'Automattic\\Jetpack\\Assets\\Semver' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-semver.php',
     'Automattic\\Jetpack\\Autoloader\\AutoloadFileWriter' => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadFileWriter.php',
     'Automattic\\Jetpack\\Autoloader\\AutoloadGenerator' => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadGenerator.php',
@@ -28,7 +29,6 @@ return array(
     'Automattic\\Jetpack\\Modules' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-modules.php',
     'Automattic\\Jetpack\\Paths' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-paths.php',
     'Automattic\\Jetpack\\Plugins_Installer' => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php',
-    'Automattic\\Jetpack\\Script_Data' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-script-data.php',
     'Automattic\\Jetpack\\Status' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php',
     'Automattic\\Jetpack\\Status\\Cache' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-cache.php',
     'Automattic\\Jetpack\\Status\\Host' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-host.php',
