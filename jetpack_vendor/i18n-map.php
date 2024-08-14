@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.4.0',
+      'ver' => '0.4.1-alpha1723622471',
     ),
   ),
 );
