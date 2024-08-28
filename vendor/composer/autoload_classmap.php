@@ -35,4 +35,5 @@ return array(
     'Automattic\\Jetpack\\Status\\Visitor' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php',
     'Classic_Theme_Helper_Plugin' => $baseDir . '/src/class-classic-theme-helper-plugin.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'Jetpack_Customize_Control_Title' => $baseDir . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/content-options/customizer.php',
 );

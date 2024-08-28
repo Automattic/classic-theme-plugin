@@ -54,6 +54,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_classic_theme_helper_pl
         'Automattic\\Jetpack\\Status\\Visitor' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php',
         'Classic_Theme_Helper_Plugin' => __DIR__ . '/../..' . '/src/class-classic-theme-helper-plugin.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Jetpack_Customize_Control_Title' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/content-options/customizer.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
