@@ -36,6 +36,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_classic_theme_helper_pl
         'Automattic\\Jetpack\\Autoloader\\ManifestGenerator' => __DIR__ . '/..' . '/automattic/jetpack-autoloader/src/ManifestGenerator.php',
         'Automattic\\Jetpack\\Automatic_Install_Skin' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php',
         'Automattic\\Jetpack\\Classic_Theme_Helper\\Featured_Content' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-featured-content.php',
+        'Automattic\\Jetpack\\Classic_Theme_Helper\\Jetpack_Portfolio' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/custom-post-types/class-jetpack-portfolio.php',
         'Automattic\\Jetpack\\Classic_Theme_Helper\\Main' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-main.php',
         'Automattic\\Jetpack\\Classic_Theme_Helper\\Social_Links' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-classic-theme-helper/src/class-social-links.php',
         'Automattic\\Jetpack\\Composer\\Manager' => __DIR__ . '/..' . '/automattic/jetpack-composer-plugin/src/class-manager.php',
