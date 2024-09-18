@@ -21,3 +21,6 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
 - Removed wp slug until plugin is approved
+
+### Fixed
+- Portfolios: Ensure these are enabled and working properly on themes that support portfolios
