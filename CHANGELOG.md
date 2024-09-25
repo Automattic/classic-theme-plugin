@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial commit.
 
 ### Changed
+- Admin dashboard: Disable portfolio toggle if theme supports portfolio and site is WoA
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - Updated package dependencies.
 
