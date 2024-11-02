@@ -6,11 +6,11 @@ return array(
   'packages' => array(
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '2.3.13-alpha1730371893',
+      'ver' => '2.3.13-alpha1730548010',
     ),
     'jetpack-classic-theme-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-classic-theme-helper',
-      'ver' => '0.6.6-alpha1730371893',
+      'ver' => '0.6.6-alpha1730548010',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.4.4-alpha1730371893',
+      'ver' => '0.4.4-alpha1730548010',
     ),
   ),
 );
