@@ -6,19 +6,19 @@ return array(
   'packages' => array(
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '2.3.14',
+      'ver' => '3.0.0-alpha1731518828',
     ),
     'jetpack-classic-theme-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-classic-theme-helper',
-      'ver' => '0.6.7',
+      'ver' => '0.7.0-alpha1731518828',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
-      'ver' => '2.0.4',
+      'ver' => '3.0.0-alpha1731518828',
     ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.4.4',
+      'ver' => '0.5.0-alpha1731518828',
     ),
   ),
 );
