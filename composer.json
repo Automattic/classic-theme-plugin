@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-assets": "^4.0.0-alpha",
 		"automattic/jetpack-autoloader": "^5.0.0-alpha",
-		"automattic/jetpack-classic-theme-helper": "^0.7.0-alpha",
+		"automattic/jetpack-classic-theme-helper": "^0.7.0",
 		"automattic/jetpack-composer-plugin": "^3.0.0",
 		"automattic/jetpack-config": "^3.0.0",
 		"automattic/jetpack-plugins-installer": "^0.5.0"
