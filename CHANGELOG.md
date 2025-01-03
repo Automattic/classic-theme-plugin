@@ -30,4 +30,5 @@ This is an alpha version! The changes listed here are not final.
 - Removed wp slug until plugin is approved
 
 ### Fixed
+- E2E Tests: Only install single browser used by Playwright.
 - Portfolios: Ensure these are enabled and working properly on themes that support portfolios
