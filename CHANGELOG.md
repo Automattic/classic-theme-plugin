@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Classic Theme Helper: Ensure Social Links will load from the plugin.
 - Enable test coverage.
 - Initial commit.
+- jetpack-components: Export the getRedirectUrl function with subpath
 
 ### Changed
 - Admin dashboard: Disable portfolio toggle if theme supports portfolio and site is WoA
