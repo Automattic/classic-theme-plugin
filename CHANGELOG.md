@@ -33,5 +33,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - E2E Tests: Only install single browser used by Playwright.
+- Fix: Jetpack show excerpt on Content options does not includes theme filters.
 - Portfolios: Ensure these are enabled and working properly on themes that support portfolios
 - Testimonials: fix a shortcode related bug which ccurs if the column attribute is added and set to 0
