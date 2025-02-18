@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Enable test coverage.
 - Initial commit.
 - jetpack-components: Export the getRedirectUrl function with subpath
+- Theme tools: Load theme compat functionality relevant to features in Classic Theme Helper package, from this package.
 
 ### Changed
 - Admin dashboard: Disable portfolio toggle if theme supports portfolio and site is WoA
