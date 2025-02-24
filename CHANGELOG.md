@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Classic Theme Helper: Ensure Responsive Videos and Featured Content will load from the plugin
 - Classic Theme Helper: Ensure Social Links will load from the plugin.
+- Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enable test coverage.
 - Initial commit.
 - jetpack-components: Export the getRedirectUrl function with subpath
