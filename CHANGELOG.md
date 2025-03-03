@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated dependencies.
 - Updated package dependencies.
+- Update package dependencies.
 
 ### Removed
 - General: Update minimum PHP version to 7.2.
