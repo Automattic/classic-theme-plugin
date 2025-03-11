@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Enable test coverage.
 - Initial commit.
 - jetpack-components: Export the getRedirectUrl function with subpath
+- Provide connection data to footer component.
 - Theme tools: Load theme compat functionality relevant to features in Classic Theme Helper package, from this package.
 
 ### Changed
