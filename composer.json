@@ -12,7 +12,7 @@
 		"automattic/jetpack-plugins-installer": "^0.5.3-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.1-alpha"
+		"automattic/jetpack-changelogger": "^6.0.1"
 	},
 	"autoload": {
 		"classmap": [
