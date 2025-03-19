@@ -7,7 +7,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-a8c-mc-stats",
-                "reference": "87be9b677136e6c424510e1122175171970ac0e6"
+                "reference": "1fb59d103c157e41130a4014e68b69ebadcec9db"
             },
             "require": {
                 "php": ">=7.2"
@@ -59,12 +59,12 @@
         },
         {
             "name": "automattic/jetpack-assets",
-            "version": "4.0.14-alpha.1742415897",
-            "version_normalized": "4.0.14.0-alpha1742415897",
+            "version": "4.0.14-alpha.1742417137",
+            "version_normalized": "4.0.14.0-alpha1742417137",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-assets",
-                "reference": "534873d2214ab5cf41d62f2dc2097396b3f8f87e"
+                "reference": "a558ff9f34dc72970b88faa122465fe7695f3fb0"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.5-alpha",
@@ -137,7 +137,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-autoloader",
-                "reference": "076f76a1c03994b6c48dc23e332c4fb2767c125c"
+                "reference": "539228bed0b336b804ff03c852bc9a8d8d70a100"
             },
             "require": {
                 "composer-plugin-api": "^2.2",
@@ -209,7 +209,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-classic-theme-helper",
-                "reference": "6458c687298c56f0fd916b587eb0028487db6ca2"
+                "reference": "f9c795dd86b653675f8e2f8ed1bee42da2559513"
             },
             "require": {
                 "automattic/jetpack-assets": "^4.0.14-alpha",
@@ -277,7 +277,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-composer-plugin",
-                "reference": "c8e733cab6ad4e9a9d2a04bd00bd0194ea7f0d68"
+                "reference": "20c796752480e2a949d5032faabb5171efa6070e"
             },
             "require": {
                 "composer-plugin-api": "^2.2",
@@ -341,7 +341,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-config",
-                "reference": "c7349c8284ec479ab592480e0fa264846680dab1"
+                "reference": "eaf4b6529d7a6be90cfa0de4999861eebebc4020"
             },
             "require": {
                 "php": ">=7.2"
@@ -416,7 +416,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-constants",
-                "reference": "43c1af98a1710721de18d7876c0332272ad03b91"
+                "reference": "072af09a7317fc629628ac98bc68a2a291f41d52"
             },
             "require": {
                 "php": ">=7.2"
@@ -474,7 +474,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plugins-installer",
-                "reference": "a1bb1a14dbd4c90784e7cacfd5170eab45b2e6af"
+                "reference": "cc84d95149dd029d548496eb776910b9137dfb52"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^3.0.4-alpha",
@@ -529,12 +529,12 @@
         },
         {
             "name": "automattic/jetpack-status",
-            "version": "5.0.10-alpha.1742415897",
-            "version_normalized": "5.0.10.0-alpha1742415897",
+            "version": "5.0.10-alpha.1742417137",
+            "version_normalized": "5.0.10.0-alpha1742417137",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-status",
-                "reference": "038e3cf64c519e27fb6e5b3adbf78f5f898192fd"
+                "reference": "0919bd6eb00e55dfa66e52e1fa7a53f4accd8329"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.5-alpha",
