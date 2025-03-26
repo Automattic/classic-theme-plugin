@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Code: Use function-style exit() and die() with a default status code of 0.
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
+- General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated dependencies.
 - Updated package dependencies.
