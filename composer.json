@@ -6,13 +6,13 @@
 	"require": {
 		"automattic/jetpack-assets": "^4.0.17",
 		"automattic/jetpack-autoloader": "^5.0.6",
-		"automattic/jetpack-classic-theme-helper": "^0.11.6-alpha",
+		"automattic/jetpack-classic-theme-helper": "^0.11.6",
 		"automattic/jetpack-composer-plugin": "^4.0.4",
 		"automattic/jetpack-config": "^3.1.0",
 		"automattic/jetpack-plugins-installer": "^0.5.4"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.4-alpha"
+		"automattic/jetpack-changelogger": "^6.0.4"
 	},
 	"autoload": {
 		"classmap": [
