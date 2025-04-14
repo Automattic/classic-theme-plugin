@@ -6,11 +6,11 @@ return array(
   'packages' => array(
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.0.18-alpha1744299365',
+      'ver' => '4.0.18',
     ),
     'jetpack-classic-theme-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-classic-theme-helper',
-      'ver' => '0.11.8-alpha1744396387',
+      'ver' => '0.11.8',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
