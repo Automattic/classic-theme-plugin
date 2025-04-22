@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Classic Theme Helper: Ensure Social Links will load from the plugin.
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enable test coverage.
+- Featured Content: Add messaging to clarify that the tag name is case sensitive.
 - Initial commit.
 - jetpack-components: Export the getRedirectUrl function with subpath
 - Provide connection data to footer component.
