@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - General: Update minimum PHP version to 7.2.
 - General: Update minimum WordPress version to 6.6.
+- General: Update minimum WordPress version to 6.7.
 - General: update WordPress version requirements to WordPress 6.5.
 - Removed wp slug until plugin is approved
 
