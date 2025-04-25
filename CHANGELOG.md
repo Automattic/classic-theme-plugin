@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
+- jetpack-assets now requires jetpack-status so updating composer lock files.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated dependencies.
 - Updated package dependencies.
