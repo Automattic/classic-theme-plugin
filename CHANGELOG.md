@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Admin dashboard: Disable portfolio toggle if theme supports portfolio and site is WoA
 - Code: First pass of style coding standards.
 - Code: Use function-style exit() and die() with a default status code of 0.
+- E2E Tests: Update config file encryption algorithm.
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
