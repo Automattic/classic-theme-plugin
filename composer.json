@@ -4,12 +4,12 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^4.2.0-alpha",
+		"automattic/jetpack-assets": "^4.2.0",
 		"automattic/jetpack-autoloader": "^5.0.8",
-		"automattic/jetpack-classic-theme-helper": "^0.13.11-alpha",
+		"automattic/jetpack-classic-theme-helper": "^0.13.11",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
-		"automattic/jetpack-plugins-installer": "^0.5.5"
+		"automattic/jetpack-plugins-installer": "^0.5.6"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.5"
