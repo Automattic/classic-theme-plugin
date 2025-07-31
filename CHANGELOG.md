@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
+- My Jetpack: Unify the user connection flow with a unified screen.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Updated dependencies.
 - Updated package dependencies.
