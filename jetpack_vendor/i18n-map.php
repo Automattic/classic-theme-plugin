@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-classic-theme-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-classic-theme-helper',
-      'ver' => '0.13.15-alpha1754976850',
+      'ver' => '0.13.15-alpha1755091645',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.5.6',
+      'ver' => '0.5.7-alpha1755091645',
     ),
   ),
 );
