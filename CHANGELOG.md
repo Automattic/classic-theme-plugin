@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added typecheck support for E2E tests.
 - Adds Account Protection initialization
 - Classic Theme Helper: Ensure Responsive Videos and Featured Content will load from the plugin
 - Classic Theme Helper: Ensure Social Links will load from the plugin.
