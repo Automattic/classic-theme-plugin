@@ -7,7 +7,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-a8c-mc-stats",
-                "reference": "2b4b4a0682743d04e743a28bd689bbc3fa5a82b6"
+                "reference": "c7bb7fa975c810f13655472dcf5e2ad777949c95"
             },
             "require": {
                 "php": ">=7.2"
@@ -59,12 +59,12 @@
         },
         {
             "name": "automattic/jetpack-assets",
-            "version": "4.3.8-alpha.1758186986",
-            "version_normalized": "4.3.8.0-alpha1758186986",
+            "version": "4.3.8-alpha.1758194149",
+            "version_normalized": "4.3.8.0-alpha1758194149",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-assets",
-                "reference": "e32566f022c521e2aad9133654a9347bc1596412"
+                "reference": "1266a4797fd90cfda58652d80c808e838e9b4e71"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.8",
@@ -138,7 +138,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-autoloader",
-                "reference": "859d98a3e3c1c9915a3248ff612d03c58fc6d356"
+                "reference": "289e5fe1a01eb3841d142b420355c19061f99862"
             },
             "require": {
                 "composer-plugin-api": "^2.2",
@@ -205,12 +205,12 @@
         },
         {
             "name": "automattic/jetpack-classic-theme-helper",
-            "version": "0.13.19-alpha.1758186986",
-            "version_normalized": "0.13.19.0-alpha1758186986",
+            "version": "0.13.19-alpha.1758194149",
+            "version_normalized": "0.13.19.0-alpha1758194149",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-classic-theme-helper",
-                "reference": "e5d5540eabe84d0a3bc38c4436b521a99b25d22a"
+                "reference": "4b1cf9c410f78c720f2565dac94f72bf6c1580c5"
             },
             "require": {
                 "automattic/jetpack-assets": "^4.3.8-alpha",
@@ -278,7 +278,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-composer-plugin",
-                "reference": "ecfbed4119b00bf9e5467588e1e2b7670faaecf9"
+                "reference": "d12ac2de9d357bf031f391181263c8e3b0473682"
             },
             "require": {
                 "composer-plugin-api": "^2.2",
@@ -342,7 +342,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-config",
-                "reference": "23b7b883b4efa47d572b8822662d1a76b1224816"
+                "reference": "bc304b1ed7e54fcbb60db1b52ea3f2db378bf25e"
             },
             "require": {
                 "php": ">=7.2"
@@ -417,7 +417,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-constants",
-                "reference": "3a83300af442445c3f6b77391eafc11a6c380682"
+                "reference": "eaa6763f7999c7203997899c13ccb7b08e0f41f9"
             },
             "require": {
                 "php": ">=7.2"
@@ -475,7 +475,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plugins-installer",
-                "reference": "00bf0d9f1f0fae68dc480a38fa3d2fa1ab925ada"
+                "reference": "5b2f2a3606b9e732ff9d6c6f98363330c85be32d"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^3.0.5",
@@ -535,7 +535,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-status",
-                "reference": "9ff5a8adc3132c6c66cd115530554bc71e8f9dfe"
+                "reference": "5479d69547c66d49ba9409ed6e67bc9b91f3c147"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.8",
