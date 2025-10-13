@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Changed an erroneous relative import to package import.
 - Code: First pass of style coding standards.
 - Code: Use function-style exit() and die() with a default status code of 0.
+- Custom post types: Ensure features remain available when theme support is added.
 - E2E Tests: Update config file encryption algorithm.
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
