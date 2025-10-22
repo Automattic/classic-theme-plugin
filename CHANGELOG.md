@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial commit.
 - jetpack-components: Export the getRedirectUrl function with subpath
 - Provide connection data to footer component.
+- Tested up to WordPress 6.9
 - Theme tools: Load theme compat functionality relevant to features in Classic Theme Helper package, from this package.
 
 ### Changed
