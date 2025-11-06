@@ -5,14 +5,14 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-assets": "^4.3.12-alpha",
-		"automattic/jetpack-autoloader": "^5.0.11",
+		"automattic/jetpack-autoloader": "^5.0.12-alpha",
 		"automattic/jetpack-classic-theme-helper": "^0.14.1",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
 		"automattic/jetpack-plugins-installer": "^0.5.7"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.7"
+		"automattic/jetpack-changelogger": "^6.0.8-alpha"
 	},
 	"autoload": {
 		"classmap": [
