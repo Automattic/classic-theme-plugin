@@ -49,6 +49,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - E2E Tests: Only install single browser used by Playwright.
+- Ensure proper flags are used with `json_encode()`.
 - Jetpack: remove getIconColor functions for block icons
 - JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
 - Linting: Address final rules in WordPress Stylelint config.
