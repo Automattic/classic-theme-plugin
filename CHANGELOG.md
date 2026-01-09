@@ -48,6 +48,7 @@ This is an alpha version! The changes listed here are not final.
 - Removed wp slug until plugin is approved
 
 ### Fixed
+- Add autoloader check to prevent fatal errors when plugin is activated before composer install.
 - E2E Tests: Only install single browser used by Playwright.
 - Ensure proper flags are used with `json_encode()`.
 - Jetpack: remove getIconColor functions for block icons
