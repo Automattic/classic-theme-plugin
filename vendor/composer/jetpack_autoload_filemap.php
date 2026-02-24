@@ -10,4 +10,8 @@ return array(
 		'version' => '4.3.26.0-alpha1771952333',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/actions.php'
 	),
+	'7372b7fb88a9723cf5b76d456eb0b738' => array(
+		'version' => '8.0.1.0-alpha1771952333',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/actions.php'
+	),
 );
