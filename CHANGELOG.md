@@ -37,6 +37,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Unify the user connection flow with a unified screen.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
+- Switch to Native TypeScript compiler based on Go.
 - Updated dependencies.
 - Updated package dependencies.
 - Update package dependencies.
