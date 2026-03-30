@@ -4,9 +4,9 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^4.3.30-alpha",
+		"automattic/jetpack-assets": "^4.3.30",
 		"automattic/jetpack-autoloader": "^5.0.16",
-		"automattic/jetpack-classic-theme-helper": "^0.14.20-alpha",
+		"automattic/jetpack-classic-theme-helper": "^0.14.20",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
 		"automattic/jetpack-plugins-installer": "^0.5.7"
