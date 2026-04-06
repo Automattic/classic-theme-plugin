@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 - Update admin page footer design.
 - Updated dependencies.
 - Update dependencies.
+- Update design of the sidebar upsell.
 - Updated package dependencies.
 - Update package dependencies.
 
