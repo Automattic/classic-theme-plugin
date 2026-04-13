@@ -28,7 +28,6 @@ This is an alpha version! The changes listed here are not final.
 - Changed an erroneous relative import to package import.
 - Code: First pass of style coding standards.
 - Code: Use function-style exit() and die() with a default status code of 0.
-- Comment: Add Tracking to Jetpack upsell link.
 - Custom post types: Ensure features remain available when theme support is added.
 - Dependencies: Update lock file to keep root requirements in sync.
 - E2E Tests: Update config file encryption algorithm.
