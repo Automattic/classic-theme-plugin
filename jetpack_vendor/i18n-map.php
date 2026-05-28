@@ -38,7 +38,7 @@ return array(
     ),
     'jetpack-post-media' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-post-media',
-      'ver' => '0.1.3',
+      'ver' => '0.1.4-alpha1779988986',
     ),
   ),
 );
