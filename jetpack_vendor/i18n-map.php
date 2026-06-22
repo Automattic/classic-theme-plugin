@@ -6,11 +6,11 @@ return array(
   'packages' => array(
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
-      'ver' => '0.9.4-alpha1781711227',
+      'ver' => '0.9.4',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.4.0-alpha1781793944',
+      'ver' => '4.4.0',
     ),
     'jetpack-block-delimiter' => array(
       'path' => 'jetpack_vendor/automattic/block-delimiter',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-classic-theme-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-classic-theme-helper',
-      'ver' => '0.14.32-alpha1781804518',
+      'ver' => '0.14.32',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -26,7 +26,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '8.7.1-alpha1782139228',
+      'ver' => '8.7.2-alpha1782152687',
     ),
     'jetpack-image-cdn' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-image-cdn',
