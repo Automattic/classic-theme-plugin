@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.4.8',
+      'ver' => '4.4.9-alpha1785192310',
     ),
     'jetpack-block-delimiter' => array(
       'path' => 'jetpack_vendor/automattic/block-delimiter',
@@ -44,5 +44,7 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-post-media',
       'ver' => '0.1.6',
     ),
+  ),
+  'paths' => array(
   ),
 );
