@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-assets' => array(
-            'pretty_version' => '4.4.10',
-            'version' => '4.4.10.0',
-            'reference' => 'bd132d9d9f0d68a5447001d9b88af1bb3beabb3b',
+            'pretty_version' => '4.4.11-alpha.1787159987',
+            'version' => '4.4.11.0-alpha1787159987',
+            'reference' => '286d55fd45ec38c1f89b2d56f9ca8172cc708afd',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-assets',
             'aliases' => array(),
@@ -76,7 +76,7 @@
         'automattic/jetpack-classic-theme-helper' => array(
             'pretty_version' => '0.14.39-alpha.1785820826',
             'version' => '0.14.39.0-alpha1785820826',
-            'reference' => '2149484bedb3c1f4100c94da4b302e7872294fad',
+            'reference' => '1d970cc1e09b923be7e1934d281fe401361d5301',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-classic-theme-helper',
             'aliases' => array(),
@@ -103,7 +103,7 @@
         'automattic/jetpack-connection' => array(
             'pretty_version' => '8.10.4-alpha.1787115549',
             'version' => '8.10.4.0-alpha1787115549',
-            'reference' => 'c3a2cccaace3c4a12adf72aee88d62bf90c41ad8',
+            'reference' => '55d5bca546112fa510e1538c2eaad94d9029f0ed',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-connection',
             'aliases' => array(),
@@ -121,7 +121,7 @@
         'automattic/jetpack-image-cdn' => array(
             'pretty_version' => '0.7.29',
             'version' => '0.7.29.0',
-            'reference' => '793b2fa3a5d109627a20b1be95fcfe0ebc0db6cc',
+            'reference' => 'b0bf179834c19e6af266b0839e0aa01dfaf6439d',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-image-cdn',
             'aliases' => array(),
