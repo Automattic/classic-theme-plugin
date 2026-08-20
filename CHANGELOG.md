@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - General: Update minimum WordPress version to 6.9.
+- General: Update minimum WordPress version to 7.0.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
 - My Jetpack: Unify the user connection flow with a unified screen.
@@ -42,6 +43,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove unneeded development and documentation files from the published plugin.
 - Switch to Native TypeScript compiler based on Go.
 - Tested up to WordPress 7.0.
+- Tested up to WordPress 7.1.
 - Update admin page footer design.
 - Updated dependencies.
 - Update dependencies.
