@@ -58,6 +58,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.8.
 - General: update WordPress version requirements to WordPress 6.5.
 - Removed wp slug until plugin is approved
+- Updated PHP version requirements to PHP 7.4 or newer.
 
 ### Fixed
 - Add autoloader check to prevent fatal errors when plugin is activated before composer install.
