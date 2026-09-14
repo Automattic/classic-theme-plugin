@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-assets' => array(
-            'pretty_version' => '5.0.3',
-            'version' => '5.0.3.0',
-            'reference' => '944838a289aac4eabfe38a64ce66331e1b6838b6',
+            'pretty_version' => '5.0.4-alpha.1789417599',
+            'version' => '5.0.4.0-alpha1789417599',
+            'reference' => '003c2d940189bc924f99bcd0511dc9d2774d2e80',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-assets',
             'aliases' => array(),
@@ -76,7 +76,7 @@
         'automattic/jetpack-classic-theme-helper' => array(
             'pretty_version' => '0.15.2-alpha.1789386091',
             'version' => '0.15.2.0-alpha1789386091',
-            'reference' => '52cc42aacf2c5039aade3649c2edb441af130bf3',
+            'reference' => '9ade4c7434a4978f9aebbe72a75fe3008ce65493',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-classic-theme-helper',
             'aliases' => array(),
@@ -103,7 +103,7 @@
         'automattic/jetpack-connection' => array(
             'pretty_version' => '9.3.0-alpha.1789387305',
             'version' => '9.3.0.0-alpha1789387305',
-            'reference' => '7bc9997ee5225de990b8b265e303d9a5e3c30f68',
+            'reference' => '586d1da3400c5258eac24390aabebed249c6be70',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-connection',
             'aliases' => array(),
@@ -121,7 +121,7 @@
         'automattic/jetpack-image-cdn' => array(
             'pretty_version' => '0.8.0',
             'version' => '0.8.0.0',
-            'reference' => '16962f610830a911fca9a45b8042c9d0e272d167',
+            'reference' => '3f936caddc0d0d2b5ac969faae9c8c98f84bbc10',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-image-cdn',
             'aliases' => array(),
