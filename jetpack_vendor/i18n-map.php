@@ -42,7 +42,7 @@ return array(
     ),
     'jetpack-post-media' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-post-media',
-      'ver' => '0.2.0',
+      'ver' => '0.2.1-alpha1790092376',
     ),
   ),
   'paths' => array(
