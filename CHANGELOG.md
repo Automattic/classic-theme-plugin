@@ -63,6 +63,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Add autoloader check to prevent fatal errors when plugin is activated before composer install.
 - Admin Page: Restore border on header component.
+- Connection: Translate the Connectors card's text on sites that don't use English.
 - E2E Tests: Only install single browser used by Playwright.
 - Ensure proper flags are used with `json_encode()`.
 - Jetpack: remove getIconColor functions for block icons
